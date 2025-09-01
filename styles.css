@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(103, 144, 144);
+    text-align: center;
+    
+    line-height: 20px;
+    text-decoration: double;
+    text-transform: uppercase;
+
+}
+#header{
+    background-color: rgb(103, 144, 130);
+    text-align: center;
+    padding: 10px;
+
+}
+.work{
+    background-color: rgb(103, 130, 144);
+    text-align: center;
+    padding: 10px;
+
+}
